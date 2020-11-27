@@ -6,6 +6,13 @@
 ## Find Me
 [![Twitter: gorfinidi](https://img.shields.io/twitter/follow/gorfinidi?style=for-the-badge)](https://twitter.com/gorfinidi)
 [![GitHub Gorka](https://img.shields.io/github/followers/SoftwareMonster?label=Follow%20MonsterSoft&style=for-the-badge)](https://github.com/SoftwareMonster)
+[![FreeCodeCamp Gorka](https://img.shields.io/github/followers/SoftwareMonster?label=Follow%20MonsterSoft&style=for-the-badge)](https://www.freecodecamp.org/finididev)
+
+
+shields.io
+
+
+https://www.freecodecamp.org/finididev
 
 
 ## Contact Me
