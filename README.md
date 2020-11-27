@@ -1,7 +1,6 @@
 ### Hi there we are Monster Software 👋
 
-<p><em>Senior Programmers</br>
-Programmers based on <img src="https://www.flaticon.es/svg/static/icons/svg/197/197593.svg" width="13"/> at <a href="https://www.monstersoft.dev/">Monster Software</a> 
+<p><em>Senior Programmers based on <img src="https://www.flaticon.es/svg/static/icons/svg/197/197593.svg" width="13"/> at <a href="https://www.monstersoft.dev/">Monster Software</a> 
 </em></p>
 
 ## Find Me
