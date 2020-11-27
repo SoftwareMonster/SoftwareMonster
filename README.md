@@ -4,7 +4,7 @@
 </em></p>
 
 ## Find Me
-<a href="https://www.freecodecamp.org/finididev" target="_blank"><img alt="Freecodecamp" src="https://img.shields.io/badge/freecodecamp-%23007735.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"/></a>/finididev)
+<a href="https://www.freecodecamp.org/finididev" target="_blank"><img alt="Freecodecamp" src="https://img.shields.io/badge/freecodecamp-%23007735.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"/></a>
 
 
 
